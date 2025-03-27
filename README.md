@@ -8,4 +8,6 @@
 ### 6) Arbitary Value Imputation
 ### 7) Most Frequent Value Imputation
 ### 8) Missing Categorical Imputation
-
+### 9) Random Sample Imputation (Categoical data)
+### 10) Random Sample Imputation (Numerical data)
+### 11) Missing-Indicator.
