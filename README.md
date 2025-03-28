@@ -11,3 +11,4 @@
 ### 9) Random Sample Imputation (Categoical data)
 ### 10) Random Sample Imputation (Numerical data)
 ### 11) Missing-Indicator.
+### 12) Automatically select value for Imputation.
