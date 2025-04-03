@@ -12,3 +12,4 @@
 ### 10) Random Sample Imputation (Numerical data)
 ### 11) Missing-Indicator.
 ### 12) Automatically select value for Imputation.
+### 13) KNN Imputation.
