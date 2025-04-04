@@ -13,3 +13,4 @@
 ### 11) Missing-Indicator.
 ### 12) Automatically select value for Imputation.
 ### 13) KNN Imputation.
+### 14) Multivariate Imputation by Chained Equations (MICE)
